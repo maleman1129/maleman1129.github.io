@@ -1,8 +1,0 @@
-baseurl = "https://maleman1129.github.io"
-title = "SiteTitle"
-
-googleAnalytics = "UA-XXXXXXXX-XX" # Optional
-disqusShortname = "XYW"
-
-[params]
-  dateformat = "Jan 2, 2006" # Optional
